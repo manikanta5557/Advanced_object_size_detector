@@ -19,4 +19,4 @@ By the height and width of object's contours and pixel metric ratio height and w
 
 # Here is a sample output
 ![alt text](https://github.com/Kashyap2502/Handbag_size_detection/blob/main/Results/output.png?raw=true)
-![alt text](https://github.com/Kashyap2502/Handbag_size_detection/blob/main/Results/WhatsApp Image 2022-07-27 at 11.02.28 AM.jpeg?raw=true)
+![alt text](https://github.com/Kashyap2502/Handbag_size_detection/blob/main/Results/output2.jpeg?raw=true)
