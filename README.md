@@ -16,6 +16,7 @@ after getting the contours of reference object we can find the height and width 
 Since we already know the size of reference object we can calculate pixel metric ratio from it  
 The same process will be done to the target object too  
 By the height and width of object's contours and pixel metric ratio height and width of the object will be calculated in centimeters
+![alt text] (workflow.png)
 
 # Here is a sample output
 ![alt text](https://github.com/Kashyap2502/Handbag_size_detection/blob/main/Results/output.png?raw=true)<br/>
