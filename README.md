@@ -19,4 +19,7 @@ By the height and width of object's contours and pixel metric ratio height and w
 
 # Here is a sample output
 ![alt text](https://github.com/Kashyap2502/Handbag_size_detection/blob/main/Results/output.png?raw=true)<br/>
-![alt text](https://github.com/Kashyap2502/Handbag_size_detection/blob/main/Results/output2.jpeg?raw=true)
+![alt text](Results/output2.jpeg)
+<p >
+  <img src="Results/output2.jpeg"  alt="output image">
+</p>
